@@ -15,7 +15,7 @@
 Here are some of my projects:
 
 #### Collaborations
-- [AquaNet](https://github.com/RainaaNs/rn-assignment5-11307343) - A web app for fishing enthusiasts with features like product listings, detailed product views, and cart functionality. The slogan is 'Hook-a-Fish'.
+- [AquaNet](https://github.com/klenam0/AquaNet-Frontend.git) - A web app for fishing enthusiasts with features like product listings, detailed product views, and cart functionality. The slogan is 'Hook-a-Fish'.
 
 #### Frontend 
 ##### (React Native)
