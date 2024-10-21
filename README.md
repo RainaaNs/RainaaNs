@@ -13,7 +13,7 @@
 
 [AquaNet](https://github.com/klenam0/AquaNet-Frontend.git) - E-commerce fishing platform for fish enthusiasts
 
-[Login-Page](https://github.com/RainaaNs/Login-Page) - Simple pages with minimal functionality.
+[Jokely](https://github.com/RainaaNs/Mock-Jokes) - Jokely, jokes app for liking, disliking and managing jokes.
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
