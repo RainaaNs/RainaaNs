@@ -2,12 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RainaaNs&color=blue)
 
-- 🌱 Currently learning frontend dev / student, goal to explore Full-Stack
+- 🌱 Currently a frontend dev, aspiring to go Full-Stack
 - 👯 Mobile app and web dev, React JS and Tailwind CSS
 - 👯 Content writing and documentation
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rainaans&theme=dark)
 
 ### Projects
 
